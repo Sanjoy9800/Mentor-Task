@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    font-size: 24px;
+}
+
+#container{
+    padding:20px;
+}
